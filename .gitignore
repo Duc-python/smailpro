@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+# cloned separately, see README
+cf-scraper/
+inboxes.json
+cf-server.log
+cf-server.pid
+token-test.txt
+.playwright-mcp/
